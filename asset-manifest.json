@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/farukpersonal/static/css/main.faf4891e.css",
+    "main.js": "/farukpersonal/static/js/main.c9284fb1.js",
+    "static/media/safarnamah_img_slider.png": "/farukpersonal/static/media/safarnamah_img_slider.2875922ddc2f37010cdb.png",
+    "static/media/sadinama_img_slider.png": "/farukpersonal/static/media/sadinama_img_slider.d3b9b30c16bf8fb18624.png",
+    "static/media/insurance_karlo_slider.png": "/farukpersonal/static/media/insurance_karlo_slider.19453b89f8e682f05163.png",
+    "static/media/resume.pdf": "/farukpersonal/static/media/resume.475b6258db826b2fcdc9.pdf",
+    "static/media/musicapp.png": "/farukpersonal/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/boy.png": "/farukpersonal/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/atom.png": "/farukpersonal/static/media/atom.ac9979693620f0a96231.png",
+    "static/media/humble.png": "/farukpersonal/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/farukpersonal/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/html.png": "/farukpersonal/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/wave.png": "/farukpersonal/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/Vector2.png": "/farukpersonal/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/farukpersonal/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/js.png": "/farukpersonal/static/media/js.e9d170f029643ca8763d.png",
+    "index.html": "/farukpersonal/index.html",
+    "main.faf4891e.css.map": "/farukpersonal/static/css/main.faf4891e.css.map",
+    "main.c9284fb1.js.map": "/farukpersonal/static/js/main.c9284fb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faf4891e.css",
+    "static/js/main.c9284fb1.js"
+  ]
+}
